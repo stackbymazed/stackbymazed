@@ -1,42 +1,88 @@
-# 👋 Hi there! I'm Mazedul Islam Nayem
+<!-- MERN Stack Banner -->
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*IEx6axTiI0LRutJ5Zw9JvQ.png" alt="MERN Stack" width="600"/>
+</p>
 
-### 💻 Full-Stack Web Developer | MERN Stack Enthusiast | Tech Explorer
+<h1 align="center">👋 Hi there! I'm Mazedul Islam Nayem</h1>
+<h3 align="center">💻 Full-Stack Web Developer | MERN Stack Enthusiast | Tech Explorer</h3>
 
-🚀 Passionate about building scalable web applications and modern user interfaces.  
-🔭 Currently exploring advanced concepts in Node.js, JWT, and Python integration.
-
----
-
-### 🛠️ Tech Stack:
-- 💻 Frontend: HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React
-- 🛠️ Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB
-- 🔐 Auth: Firebase Auth, JWT
-- 🐍 Others: Python, Git, GitHub
-
----
-
-### 📈 GitHub Stats & Badges
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/your-github-username">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" />
+  </a>
+</p>
 
 ---
 
-### 📫 Connect with me
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:your-email@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](https://yourportfolio.com)
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Frontend                     | Backend                 | Database     | Authentication        | Others              |
+| ---------------------------- | ----------------------- | ------------ | --------------------- | ------------------- |
+| HTML, CSS, TailwindCSS       | Node.js, Express.js     | MongoDB      | Firebase Auth, JWT    | Python, Git, GitHub |
+| Bootstrap, JavaScript, React |                         |              |                       |                     |
+
+---
+
+### 💪 Skills Progress
+
+| Skill       | Level          |
+| ----------- | -------------- |
+| JavaScript  | ██████████ 90% |
+| React      | █████████ 85%  |
+| Node.js     | ████████ 75%   |
+| MongoDB     | ███████ 70%    |
+| Python     | ██████ 60%     |
+
+---
+
+### 🚀 Projects I'm Proud Of
+
+- [Roommate Finder](https://github.com/your-github-username/roommate-finder) - A platform to find compatible roommates with React & Firebase.
+- [Bill Management](https://github.com/your-github-username/bill-management) - Full-stack MERN app with authentication and payment integration.
+- [Online Study Group](https://github.com/your-github-username/online-study-group) - Group study web app with real-time collaboration features.
+
+*(Check out my [GitHub repositories](https://github.com/your-github-username) for more!)*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" alt="Email" />
+  </a> &nbsp;
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-website-green" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
 ### 💡 Fun Fact
+
 > I love solving coding problems and building cool side-projects on weekends ☕🚀
 
 ---
 
-*This README was generated using third-party tools and personal customization inspired by:*
-- [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [https://arturssmirnovs.github.io/github-profile-readme-generator/](https://arturssmirnovs.github.io/github-profile-readme-generator/)
-- [https://gprm.itsvg.in/](https://gprm.itsvg.in/)
+*This README was crafted with ❤️ by Mazedul Islam Nayem.*
