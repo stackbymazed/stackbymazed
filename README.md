@@ -64,16 +64,17 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/majedul-islam-902628295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a> &nbsp;
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:majedulislam223311@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" alt="Email" />
   </a> &nbsp;
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-website-green" alt="Portfolio" />
   </a>
 </p>
+
 
 ---
 
