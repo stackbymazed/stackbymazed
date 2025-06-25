@@ -56,9 +56,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://camo.githubusercontent.com/f55c6cd528cfaa111eca55133d1058ed3b30efd93c410650c207c39aa5808afa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d642d6b6f7070656e686167656e2673686f775f69636f6e733d74727565" alt="GitHub Stats" />
 </p>
 
 ---
