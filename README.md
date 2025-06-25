@@ -49,7 +49,7 @@
 - [Bill Management](https://github.com/your-github-username/bill-management) - Full-stack MERN app with authentication and payment integration.
 - [Online Study Group](https://github.com/your-github-username/online-study-group) - Group study web app with real-time collaboration features.
 
-*(Check out my [GitHub repositories](https://github.com/your-github-username) for more!)*
+*(Check out my [GitHub repositories]https://github.com/stackbymazed?tab=repositories) for more!)*
 
 ---
 
