@@ -1,6 +1,6 @@
 <!-- MERN Stack Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/GQPC8S5Y/wp8904080.webp" alt="MERN Stack" width="600"/>
+  <img src="https://raw.githubusercontent.com/stackbymazed/stackbymazed/refs/heads/main/wp8904080.webp" alt="MERN Stack" width="1000" height="300"/>
 </p>
 
 <h1 align="center">👋 Hi there! I'm Mazedul Islam Nayem</h1>
