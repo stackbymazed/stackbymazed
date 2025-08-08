@@ -69,9 +69,8 @@
 
 ### 🚀 Pinned Projects
 
-- [Roommate Finder](https://github.com/stackbymazed/roommate-finder) - A platform to find compatible roommates with React & Firebase.  
-- [Bill Management](https://github.com/stackbymazed/bill-management) - Full-stack MERN app with authentication and payment integration.  
-- [Online Study Group](https://github.com/stackbymazed/online-study-group) - Group study web app with real-time collaboration features.  
+- [Roommate Finder](https://github.com/stackbymazed/Roommate-Finder-Client) - A platform to find compatible roommates with React & Firebase.  
+- [Online Study Group](https://github.com/stackbymazed/Online-Group-Study-Client) - Group study web app with real-time collaboration features.
 
 ---
 
