@@ -70,7 +70,9 @@
 ### 🚀 Pinned Projects
 
 - [Roommate Finder](https://github.com/stackbymazed/Roommate-Finder-Client) - A platform to find compatible roommates with React & Firebase.  
-- [Online Study Group](https://github.com/stackbymazed/Online-Group-Study-Client) - Group study web app with real-time collaboration features.
+- [Online Study Group](https://github.com/stackbymazed/Online-Group-Study-Client) - Group study web app with real-time collaboration features.  
+- [BhromonBarta](https://github.com/stackbymazed/BhromonBarta) - Tourism management system built with MERN stack and Firebase.
+
 
 ---
 
