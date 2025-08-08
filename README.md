@@ -7,13 +7,13 @@
 <h3 align="center">💻 Full-Stack Web Developer | MERN Stack Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" />
-  </a>
+  <a href="https://www.linkedin.com/in/mazedul-islam22/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/majedulislam.nayem" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook" />
+</a>
 </p>
 
 ---
